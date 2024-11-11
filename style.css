@@ -1,0 +1,92 @@
+body{
+    background-image:url('https://images.paramount.tech/uri/mgid:arc:imageassetref:ws.mtv.com:86ae74fe-e9ab-4a29-9e1a-fe231598f51e?quality=0.7&gen=ntrn&format=webp&width=1600');
+    background-size:auto;
+}
+.navbar{
+    border:solid white;
+    background-color:tk;
+    display:flex;
+    height:64px;
+
+}
+.imageContainer{
+    /*border:solid grey;*/
+    /*height:auto*/
+    margin:auto;
+}    
+
+.Title{
+        color:gold;
+        width: 75%
+}
+.Date{
+        color:white
+        
+}
+.Paragraph{
+        color:white;
+        width:50%
+}
+
+.episodedisplay{
+    /*border:solid navy;
+    height:auto;*/
+    margin:1em;
+    display:flex;
+    justify-content:center;
+   
+}
+
+ /*  
+.img{
+    justify-content: space-between;
+    display: flex;*/
+
+
+
+.iconContainer{
+    /* border:solid lime; */
+    display:flex;
+    justify-content: space-between;
+    width:30%;
+    margin:10px;
+}
+.btnContainer{
+    /* border:solid orange; */
+    width:70%;
+    margin:10px;
+}
+.sidebar{
+    height:100%;
+}
+.logo{
+    height:100%;
+}
+.mtvLogin{
+    width:100px;
+    font-size:18px;
+    border-radius:10px;
+    margin-top:12px;
+    background-color: rgb(191, 232, 107);
+    color:black;
+    font-family:Atial bold;
+    margin-left:80%;
+
+}
+.mtv{
+    width:100%;
+}
+.b1{
+    background-color: yellow;
+    border-radius: 10px;
+    color:black;
+    font-size: 20px;
+    padding: 20px;
+}
+.b2{
+    background-color: gray;
+    border-radius: 10px;
+    color:white;
+    font-size: 20px;
+    padding: 20px;
+}
